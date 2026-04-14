@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* --- INICIO DA ALTERAÇÃO --- */
+/* Configuração da paleta de cores do MELEVA (Tailwind v4) */
+@theme {
+  --color-emerald: #00A86B;
+  --color-anthracite: #2F2F2F;
+  --color-sos: #E32636;
+}
+/* --- FIM DA ALTERAÇÃO --- */

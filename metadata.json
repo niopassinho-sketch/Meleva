@@ -1,0 +1,8 @@
+{
+  "name": "MELEVA",
+  "description": "Aplicativo de carona compartilhada (Motoristas e Passageiros)",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
